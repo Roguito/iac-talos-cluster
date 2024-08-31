@@ -1,6 +1,6 @@
 variable "harbor_url" {
   type    = string
-  default = "http://harbor.lan"
+  default = "http://harbor.roguestarr.com"
 }
 
 variable "harbor_username" {
@@ -10,5 +10,5 @@ variable "harbor_username" {
 
 variable "harbor_password" {
   type    = string
-  default = "5eCr3t"
+  default = "harborP@$$2024"
 }
